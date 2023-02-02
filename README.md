@@ -1,0 +1,1 @@
+Simple program that takes an array and sums the values of the array.
